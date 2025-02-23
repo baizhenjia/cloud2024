@@ -45,6 +45,9 @@
                             一种规范，可以以使多个子项目中使用同一版本号
                             子项目中不用再写版本号，也可以自己设版本号
                             2.这里只是申明依赖，并不实现引入-->
+<!--   https://gitee.com/hhf1237/cloud2024
+https://github.com/chloe-0602/cloud2024
+git的学习代码-->
     <dependencyManagement>
         <dependencies>
             <!--springboot 3.2.0-->
